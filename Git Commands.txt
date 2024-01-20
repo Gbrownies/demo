@@ -17,3 +17,5 @@ git checkout -b {branch name} - Creates new branch with chosen name
 git checkout {branch name} - Moves working directory to that branch
 
 git branch - Shows all branches
+
+git merge {branch name} - Merges the bracnh to active branch
