@@ -18,4 +18,6 @@ git checkout {branch name} - Moves working directory to that branch
 
 git branch - Shows all branches
 
+git branch -D {branch name} - Deletes branch
+
 git merge {branch name} - Merges the bracnh to active branch
