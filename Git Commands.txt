@@ -7,3 +7,7 @@ git status - Shows status of current commit
 git add - Adds directory to staging area to commit
 
 git add . - Adds everything in current directory to staging
+
+git commit -m "(message)" - Commits the staged files into the repository
+
+git log - View log of previous commits
