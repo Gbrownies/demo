@@ -29,3 +29,5 @@ git push -u {repo name} {branch name} - Pushes current branch to specified branc
 git pull {repo name} {branch name} - pulls changes from remote repo
 
 git clone {repository url} - Clones repository onto local machine
+
+git rebase {branch} - Rebases current branch to specified branch
