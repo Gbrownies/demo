@@ -14,3 +14,6 @@ git log - View log of previous commits
 
 git checkout -b {branch name} - Creates new branch with chosen name
 
+git checkout {branch name} - Moves working directory to that branch
+
+git branch - Shows all branches
