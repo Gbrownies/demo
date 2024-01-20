@@ -27,3 +27,5 @@ git remote add {repo name} https://github.com/{github username}/{github repo nam
 git push -u {repo name} {branch name} - Pushes current branch to specified branch in specified repository
 
 git pull {repo name} {branch name} - pulls changes from remote repo
+
+git clone {repository url} - Clones repository onto local machine
