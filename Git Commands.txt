@@ -21,3 +21,7 @@ git branch - Shows all branches
 git branch -D {branch name} - Deletes branch
 
 git merge {branch name} - Merges the bracnh to active branch
+
+git remote add {repo name} https://github.com/{github username}/{github repo name}.git - Creates remote repository linked to the specified repo
+
+git push -u {repo name} {branch name} - Pushes current branch to specified branch in specified repository
