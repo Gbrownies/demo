@@ -8,6 +8,9 @@ git add - Adds directory to staging area to commit
 
 git add . - Adds everything in current directory to staging
 
-git commit -m "(message)" - Commits the staged files into the repository
+git commit -m "{message}" - Commits the staged files into the repository
 
 git log - View log of previous commits
+
+git checkout -b {branch name} - Creates new branch with chosen name
+
